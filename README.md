@@ -137,9 +137,9 @@ mindmap
 
 | 구분 | 링크 |
 | --- | --- |
-| Email | your-email@example.com |
-| Portfolio | [🔗 나의 포트폴리오 보러가기](https://www.google.com/search?q=%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EB%A7%81%ED%81%AC_%EC%9E%85%EB%A0%A5) |
-| GitHub | https://github.com/your-github-id |
+| Email | mailto:kny45112003@gmail.com |
+| Portfolio | [🔗 나의 포트폴리오 보러가기]([https://www.google.com/search?q=%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EB%A7%81%ED%81%AC_%EC%9E%85%EB%A0%A5](https://kny45112003-hue.github.io/portfolio-website/)) |
+| GitHub | [https://github.com/your-github-id](https://github.com/kny45112003-hue) |
 
 ```
 
