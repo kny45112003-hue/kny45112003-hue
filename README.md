@@ -126,11 +126,10 @@ mindmap
 ## 현재 학습 중인 내용
 
 <p align="left">
-  <img src="https://img.shields.io/badge/디자인%20시스템-학습중-7B61FF?style=flat-square" alt="Design System">
-  <img src="https://img.shields.io/badge/반응형%20웹-학습중-1572B6?style=flat-square" alt="Responsive Web">
-  <img src="https://img.shields.io/badge/웹접근성-학습중-2E7D32?style=flat-square" alt="Accessibility">
+  <img src="https://img.shields.io/badge/GitHub%20연결-학습중-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-학습중-E34F26?style=flat-square" alt="HTML/CSS">
+  <img src="https://img.shields.io/badge/Codex%20사용-학습중-000000?style=flat-square" alt="Codex">
   <img src="https://img.shields.io/badge/JavaScript-학습중-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-기초%20학습-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
 </p>
 ---
 
