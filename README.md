@@ -125,6 +125,13 @@ mindmap
 
 ## 현재 학습 중인 내용
 
+<p align="left">
+  <img src="https://img.shields.io/badge/디자인%20시스템-학습중-7B61FF?style=flat-square" alt="Design System">
+  <img src="https://img.shields.io/badge/반응형%20웹-학습중-1572B6?style=flat-square" alt="Responsive Web">
+  <img src="https://img.shields.io/badge/웹접근성-학습중-2E7D32?style=flat-square" alt="Accessibility">
+  <img src="https://img.shields.io/badge/JavaScript-학습중-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-기초%20학습-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+</p>
 ---
 
 ## Contact
