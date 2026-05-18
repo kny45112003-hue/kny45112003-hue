@@ -69,7 +69,6 @@
 
 ## 🧩 작업 프로세스
 
-```
 mermaid
 flowchart LR
     A[리서치] --> B[사용자 분석]
@@ -84,7 +83,6 @@ flowchart LR
 
 ## 디자인 사고 구조
 
-```
 mermaid
 mindmap
   root((Design))
