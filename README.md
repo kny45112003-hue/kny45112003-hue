@@ -74,7 +74,8 @@ flowchart LR
     E --> F[프로토타입]
     F --> G[피드백 개선]
     G --> H[웹 구현 검토]
-🧠 디자인 사고 구조
+
+##🧠 디자인 사고 구조
 mindmap
   root((Design))
     UX
@@ -92,7 +93,7 @@ mindmap
       CSS
       JavaScript
       Responsive
-🌱 현재 학습 중
+##🌱 현재 학습 중
 
 
 
@@ -103,15 +104,15 @@ mindmap
 
 
 
-📊 GitHub Stats
+##📊 GitHub Stats
 <div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=tokyonight&hide_border=true"/> </div>
-📫 Contact
+##📫 Contact
 구분	링크
 Email	your-email@example.com
 Portfolio	준비 중
 GitHub	https://github.com/your-github-id
 <div align="center">
 
-✨ Designing intuitive and meaningful experiences ✨
+##✨ Designing intuitive and meaningful experiences ✨
 
 </div> ```
